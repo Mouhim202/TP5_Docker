@@ -22,9 +22,3 @@
 <hr>
 
 <h1>Partie 2: CI/CD (continuous integration/continuous deployment)</h1>
-
-<img src="Captures/6.png" alt="Screenshot 6">
-
-<hr>
-
-<img src="Captures/7.png" alt="Screenshot 7">
